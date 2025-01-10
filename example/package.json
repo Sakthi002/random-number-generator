@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sakthi-random-num-generator-js": "^1.0.2"
+    "sakthi-random-num-generator-js": "^1.0.3"
   }
 }
